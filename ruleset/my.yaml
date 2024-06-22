@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,virmach.com
