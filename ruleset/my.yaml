@@ -1,6 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-KEYWORD,m-team
-  - DOMAIN-KEYWORD,virmach
   - DOMAIN-SUFFIX,altervista.org
   - DOMAIN-SUFFIX,windtech.top
